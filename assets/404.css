@@ -1,0 +1,13 @@
+.container {
+  position: relative;
+}
+.content{
+  position: absolute;
+  left: 100px;
+  top: 50px;
+}
+nav{
+  position: absolute;
+  left: 100px;
+  bottom: 100px;
+}
